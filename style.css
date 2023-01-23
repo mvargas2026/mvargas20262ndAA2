@@ -1,0 +1,30 @@
+body {
+    background-color:#6b9cc4;
+    color: #022b24;
+    font-family: 'Solitreo', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    text-align: left;
+    overflow: hidden;
+    background-color: #0c5e50;
+    }
+li {
+    float: left;
+    margin: 5px;
+}
+li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 0px 5px;
+    font-size: 40px;
+    display: inline;
+}
+
+li a:hover{
+    color: #00cc66;
+}
